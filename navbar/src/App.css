@@ -1,0 +1,46 @@
+.App{
+  display: grid;
+  /* border: 1px solid red; */
+  grid-template-rows: 60px;
+  grid-template-columns: 10% 40% 30%;
+  grid-gap: 10px;
+  justify-content: space-evenly;
+  background-color: black;
+}
+.App div{
+  border: 1px solid transparent;
+}
+.logo{
+  width: 90%;
+  height: 10%;
+}
+
+.ab{
+  text-align: center;
+  margin-top: 15px;
+  padding-left: 35%;
+}
+
+span{
+  margin: 15px;
+  color: white;
+  font-size: 20px;
+  font-weight: 600;
+  
+}
+.abc{
+  text-align: center;
+  margin-top: 13px;
+}
+
+button{
+  width: 120px;
+  padding: 8px;
+  background-color: teal;
+  color: white;
+  border-radius: 15px;
+  border: 0;
+  font-size: 15px;
+  font-weight: 600;
+
+}
