@@ -1,0 +1,203 @@
+{
+  "items":[
+      {
+          
+          "title":"Kaveri's Restaurant",
+          "desc":"Veg Masala Kulcha",
+          "price":267,
+          "payement":"Accept only Card",
+          "votes":250,
+          "rating":"1 star",
+          "img":"https://tastypics.s3.us-west-1.amazonaws.com/2b2b2a2108a44d6a83a83b01cd8aa472.jpg"
+      },
+      {
+          
+          "title":"South ka swaad",
+          "desc":"Masala Dosa",
+          "price":230,
+          "payement":"Accept only Card",
+          "votes":200,
+          "rating":"2 star",
+          "img":"https://cookbook.pfeiffer.net.au/files/dosa.jpg"
+      },
+      {
+          
+          "title":"Aroti Restaurant",
+          "desc":"Panner Butter Masala",
+          "price":180,
+          "payement":"Accept only Card",
+          "votes":160,
+          "rating":"1 star",
+          "img":"https://www.ruchiskitchen.com/wp-content/uploads/2020/12/Paneer-butter-masala-recipe-3-500x375.jpg"
+      },
+      {
+          
+          "title":"Shivam Food Court",
+          "desc":"Special Thali",
+          "price":280,
+          "payement":"Accept only Card",
+          "votes":260,
+          "rating":"3 star",
+          "img":"https://i.ytimg.com/vi/Gz2UkbfiNhQ/maxresdefault.jpg"
+      },
+      {
+          
+          "title":"Food Factory",
+          "desc":"Kali Daal",
+          "price":160,
+          "payement":"Accept only Card",
+          "votes":160,
+          "rating":"3 star",
+          "img":"https://1.bp.blogspot.com/-rs0QbgPcWGI/X0FIGyumanI/AAAAAAAALno/UioNdqhDaNUqFdkLteCzAWI-icZ5jPhYgCLcBGAsYHQ/s1600/Kali%2Bdal%2Brecipe.JPG"
+      }
+
+      ,
+      {
+          
+          "title":"Quick Bite",
+          "desc":"Veg Manchurain",
+          "price":180,
+          "payement":"Accept only Cash",
+          "votes":60,
+          "rating":"2 star",
+          "img":"https://i0.wp.com/vegecravings.com/wp-content/uploads/2017/03/veg-manchurian-dry-recipe-step-by-step-instructions-10.jpg?fit=2412%2C1944&quality=65&strip=all&ssl=1"
+      },
+      {
+          
+        "title":"Kwality Hotel",
+        "desc":"Chicken Birayani",
+        "price":280,
+        "payement":"Accept only Cash",
+        "votes":460,
+        "rating":"4 star",
+        "img":"https://vegveganmeat.com/wp-content/uploads/2020/11/chicken-biryani-pressure-cooker-south-india-square-720x540.jpg"
+    },
+    {
+        "title":"Mahi Darbar",
+        "desc":"Butter Chicken",
+        "price":190,
+        "payement":"Accept only Cash",
+        "votes":140,
+        "rating":"3 star",
+        "img":"https://static.toiimg.com/thumb/53205522.cms?imgsize=302803&width=800&height=800"
+    },
+    {
+        "title":"Neha Darbar",
+        "desc":"Butter Panner",
+        "price":140,
+        "payement":"Accept only Cash",
+        "votes":200,
+        "rating":"1 star",
+        "img":"https://www.indianveggiedelight.com/wp-content/uploads/2017/09/instant-pot-paneer-butter-masala-featured.jpg"
+    },
+    {
+        "title":"Apple Restaurant",
+        "desc":"Panner Mushroom",
+        "price":299,
+        "payement":"Accept only Cash",
+        "votes":540,
+        "rating":"2 star",
+        "img":"https://www.cookwithkushi.com/wp-content/uploads/2020/03/IMG_3557_11-1024x650-1.jpg" 
+    }
+    ,
+    {
+        
+        "title":"Gopal's",
+        "desc":"Chilli Chicken",
+        "price":170,
+        "payement":"Accept only Card",
+        "votes":80,
+        "rating":"4 star",
+        "img":"https://recipesofhome.com/wp-content/uploads/2020/03/easy-chilli-chicken-recipe-735x490.jpg"
+    },
+    {
+        
+      "title":"Waikiki",
+      "desc":"Noodles",
+      "price":130,
+      "payement":"Accept only Card",
+      "votes":230,
+      "rating":"1 star",
+      "img":"https://i0.wp.com/vegecravings.com/wp-content/uploads/2017/03/veg-hakka-noodles-recipe-with-step-by-step-instructions.jpg?fit=1838%2C1493&quality=65&strip=all&ssl=1"
+  },
+  {
+      "title":"Peep In",
+      "desc":"Sahi Panner",
+      "price":230,
+      "payement":"Accept only Card",
+      "votes":240,
+      "rating":"2 star",
+      "img":"https://images.herzindagi.info/image/2019/Dec/shahi-paneer-without-onion-main.jpg"
+  },
+  {
+      "title":"Domino's",
+      "desc":"Farm House",
+      "price":360,
+      "payement":"Accept only Card",
+      "votes":800,
+      "rating":"4 star",
+      "img":"https://www.brotherskitchen.in/wp-content/uploads/2021/03/farmhouse-pizza-vegetarian-pizza-with-mouth-watering-toppings_1024-768-600x450.jpg"
+  },
+  {
+      "title":"Sahi Darbar",
+      "desc":"Veg Momo",
+      "price":99,
+      "payement":"Accept only Card",
+      "votes":220,
+      "rating":"1 star",
+      "img":"https://c.ndtvimg.com/2020-01/2brioi88_momos_625x300_21_January_20.jpg" 
+  },
+  {
+    "title":"Cafe Hub",
+    "desc":"Pasta",
+    "price":159,
+    "payement":"Accept only Card",
+    "votes":100,
+    "rating":"4 star",
+    "img":"https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fstatic.onecms.io%2Fwp-content%2Fuploads%2Fsites%2F9%2F2020%2F09%2F17%2Fcream-tomato-rigatoni-FT-RECIPE1020.jpg" 
+  },
+  {
+    "title":"Aroti Restaurant",
+    "desc":"Chicken Tandoori",
+    "price":499,
+    "payement":"Accept only Cash",
+    "votes":140,
+    "rating":"2 star",
+    "img":"https://www.simplyrecipes.com/thmb/RApX19MbIABUG-fVjjPOVRZctBw=/1423x1067/smart/filters:no_upscale()/__opt__aboutcom__coeus__resources__content_migration__simply_recipes__uploads__2010__06__tandoori-chicken-horiz-a-1600-a92053df1c764ee1beaa91ae6383dcfd.jpg" 
+  }
+  ,
+  {
+    "title":"NH 32",
+    "desc":"Chicken Lollipop",
+    "price":199,
+    "payement":"Accept only Cash",
+    "votes":540,
+    "rating":"3 star",
+    "img":"https://www.yummytummyaarthi.com/wp-content/uploads/2014/07/1-39-500x426.jpeg" 
+  }
+  ,
+  {
+    "title":"Royal Dhaba",
+    "desc":"Panner Chilli",
+    "price":189,
+    "payement":"Accept only Cash",
+    "votes":180,
+    "rating":"4 star",
+    "img":"https://www.ketoindia.fit/health/wp-content/uploads/2020/04/064.-Chilli-Paneer_545x545-1200x1200.png" 
+  }
+  ,
+  {
+    "title":"Smoke Wood",
+    "desc":"Panner Loaded Pizza",
+    "price":499,
+    "payement":"Accept only Card",
+    "votes":740,
+    "rating":"3 star",
+    "img":"https://i.pinimg.com/originals/1e/33/61/1e336162c6172fdb30da0449f1bfd71d.jpg" 
+  }
+  
+  ]
+}
+ 
+  
+
