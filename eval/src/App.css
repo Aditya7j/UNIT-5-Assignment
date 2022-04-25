@@ -1,0 +1,29 @@
+.employee_card{
+  display: flex;
+  margin: 20px;
+}
+
+.nav-home{
+  margin: 10px;
+}
+.nav-list{
+  margin: 10px;
+}
+.nav-admin{
+  margin: 10px;
+}
+.employee_name{
+  margin: 10px;
+}
+.employee_title{
+  margin: 10px;
+}
+
+input{
+  display: flex;
+  flex-wrap: wrap;
+  margin: 10px;
+}
+select{
+  margin-left: 1%;
+}
