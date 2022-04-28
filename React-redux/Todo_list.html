@@ -1,0 +1,88 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>TODO LISTS</title>
+    <style>
+         th,
+      td {
+        border: 1px solid rgb(9, 223, 116);
+        padding: 20px;
+        width: 100px;
+        
+      }
+      
+    </style>
+</head>
+<body>
+    <h1>Todo List</h1>
+    <form>
+      <label>Name</label>
+      <input id="name" type="text" placeholder="Enter Todo" />
+      <label>Quantity</label>
+      <input id="qty" type="number" placeholder="Enter Qunatity" />
+      <label>Priority</label>
+      <select id="priority">
+        <option value="">--</option>
+        <option value="high">High</option>
+        <option value="low">Low</option>
+        <option value="medium">Medium</option>
+      </select>
+      <input type="submit" value="Submit" />
+    </form>
+    
+    <table>
+      <thead>
+        <tr>
+          <th>Name</th>
+          <th>Quantity</th>
+          <th>Priority</th>
+          <th>Delete</th>
+        </tr>
+      </thead>
+      <tbody></tbody>
+    </table>
+   
+</body>
+</html>
+
+<script>
+    document.querySelector("form").addEventListener("submit", addItem);
+
+function addItem(event) {
+  
+  event.preventDefault();
+  var name = document.getElementById("name").value;
+  var qty = document.getElementById("qty").value;
+  var priority = document.getElementById("priority").value;
+
+  var row = document.createElement("tr");
+
+  var td1 = document.createElement("td");
+  td1.textContent = name;
+
+  var td2 = document.createElement("td");
+  td2.textContent = qty;
+
+  var td3 = document.createElement("td");
+  td3.textContent = priority;
+
+  var td4 = document.createElement("td");
+  td4.textContent = "delete";
+  td4.addEventListener("click", deleteItem);
+
+  row.append(td1, td2, td3, td4);
+  var tbody = document.querySelector("tbody");
+  tbody.append(row);
+}
+
+function deleteItem(event) {
+  console.log(event.target);
+  event.target.parentNode.remove();
+}
+
+
+
+</script>
