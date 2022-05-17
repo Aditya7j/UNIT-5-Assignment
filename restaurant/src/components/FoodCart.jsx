@@ -9,6 +9,8 @@ const Container = styled.div`
 const Wrapper = styled.div`
   padding: 50px;
   display: flex;
+  border: 1px solid black;
+  background-color: #7F8487;
 
 `
 const ImgContainer = styled.div`
@@ -114,10 +116,7 @@ const FoodCart = () => {
     const [sort,setSort] =useState();
     const check =useRef([]);
 
-    
-    
-    
-    
+  
 
     useEffect(()=>{
         getItems()
@@ -142,7 +141,7 @@ const FoodCart = () => {
 
  
     const getItems = ()=>{
-        axios.get(`http://localhost:3000/items?_limit=5&_page=${page}`).then((res)=>{
+        axios.get(`http://localhost:8080/items?_limit=5&_page=${page}`).then((res)=>{
             setItems(res.data)
             useRef.current = res.data
 

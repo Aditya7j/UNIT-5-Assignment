@@ -4,7 +4,8 @@ import styled from "styled-components"
 
 
 const Container = styled.div`
-height: 60px;
+height: 70px;
+background-color: #541690;
 `
 const Wrapper = styled.div`
 padding: 10px 20px;
@@ -18,9 +19,10 @@ const Left = styled.div`
     align-items: center;
 `
 const Lang = styled.span`
-    font-size: 14px;
+    font-size: 18px;
     cursor: pointer;
     font-weight: 400;
+    color: #FF4949;
 
   
 `
@@ -45,7 +47,7 @@ const Center = styled.div`
 `
 const Logo = styled.h1`
     font-weight: bold;
-    color: red;
+    color: #FF4949;
 
     
 `
@@ -59,7 +61,7 @@ const Right =styled.div`
 
 const MenuList = styled.option `
     margin: 10px;
-    color: green;
+    color: #FF4949;
 `
 
 const Navbar = () => {

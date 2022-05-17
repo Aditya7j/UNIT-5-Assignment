@@ -15,7 +15,7 @@
           "title":"South ka swaad",
           "desc":"Masala Dosa",
           "price":230,
-          "payement":"Accept only Card",
+          "payement":"Accept only Cash",
           "votes":200,
           "rating":"2 star",
           "img":"https://cookbook.pfeiffer.net.au/files/dosa.jpg"
@@ -25,7 +25,7 @@
           "title":"Aroti Restaurant",
           "desc":"Panner Butter Masala",
           "price":180,
-          "payement":"Accept only Card",
+          "payement":"Accept only Cash",
           "votes":160,
           "rating":"1 star",
           "img":"https://www.ruchiskitchen.com/wp-content/uploads/2020/12/Paneer-butter-masala-recipe-3-500x375.jpg"
@@ -67,7 +67,7 @@
         "title":"Kwality Hotel",
         "desc":"Chicken Birayani",
         "price":280,
-        "payement":"Accept only Cash",
+        "payement":"Accept only Card",
         "votes":460,
         "rating":"4 star",
         "img":"https://vegveganmeat.com/wp-content/uploads/2020/11/chicken-biryani-pressure-cooker-south-india-square-720x540.jpg"
@@ -76,7 +76,7 @@
         "title":"Mahi Darbar",
         "desc":"Butter Chicken",
         "price":190,
-        "payement":"Accept only Cash",
+        "payement":"Accept only Card",
         "votes":140,
         "rating":"3 star",
         "img":"https://static.toiimg.com/thumb/53205522.cms?imgsize=302803&width=800&height=800"
@@ -133,7 +133,7 @@
       "title":"Domino's",
       "desc":"Farm House",
       "price":360,
-      "payement":"Accept only Card",
+      "payement":"Accept only Cash",
       "votes":800,
       "rating":"4 star",
       "img":"https://www.brotherskitchen.in/wp-content/uploads/2021/03/farmhouse-pizza-vegetarian-pizza-with-mouth-watering-toppings_1024-768-600x450.jpg"
@@ -151,7 +151,7 @@
     "title":"Cafe Hub",
     "desc":"Pasta",
     "price":159,
-    "payement":"Accept only Card",
+    "payement":"Accept only Cash",
     "votes":100,
     "rating":"4 star",
     "img":"https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fstatic.onecms.io%2Fwp-content%2Fuploads%2Fsites%2F9%2F2020%2F09%2F17%2Fcream-tomato-rigatoni-FT-RECIPE1020.jpg" 
@@ -170,7 +170,7 @@
     "title":"NH 32",
     "desc":"Chicken Lollipop",
     "price":199,
-    "payement":"Accept only Cash",
+    "payement":"Accept only Card",
     "votes":540,
     "rating":"3 star",
     "img":"https://www.yummytummyaarthi.com/wp-content/uploads/2014/07/1-39-500x426.jpeg" 
