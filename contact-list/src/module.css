@@ -1,0 +1,50 @@
+h1{
+  text-align: center;
+}
+
+.main {
+  margin-top: 5em;
+}
+
+.center {
+  justify-content: center;
+  padding: 10px;
+  
+}
+
+.header{
+  font-size: 18px;
+  color: black;
+  font-weight: 700;
+}
+
+.item {
+  /* padding: 15px 0px !important; */
+  margin-left: 20%;
+  margin-right: 20%;
+  border-bottom: 1px solid  lightgray;
+  /* border: 1px solid red; */
+  
+}
+.image{
+  width: 8%;
+  height: 8%;
+  margin: 5px;
+  border: 1px solid lightgray;
+  border: 1px solid rgb(121, 121, 126);
+  
+}
+.content{
+  margin-left: 10%;
+  margin-top: 0%;
+  /* border: 1px solid yellow; */
+  margin-bottom: 10px;
+  vertical-align: top;
+}
+
+.phone{
+  color: rgb(228, 110, 110);
+  font-size: 14px;
+  font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+  margin: 5px;
+}
