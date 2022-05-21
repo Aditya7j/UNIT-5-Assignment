@@ -1,0 +1,29 @@
+.main{
+    display: flex;
+    gap: 2rem;
+}
+.h1{
+  font-size: 15px;
+}
+.p{
+  
+  color: red;
+}
+.input{
+  width: 150px;
+  padding: 5px;
+  margin: 5px;
+}
+
+.btn{
+  width: 70px;
+  padding: 5px;
+  margin: 5px;
+  background-color: black;
+  color: red;
+}
+.btn1{
+  background-color: black;
+  color: red;
+  margin: 5px;
+}
