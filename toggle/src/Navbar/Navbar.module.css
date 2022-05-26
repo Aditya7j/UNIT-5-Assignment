@@ -1,0 +1,67 @@
+.cont{
+   
+    /* border: 1px solid red; */
+}
+
+.buttonBase{
+    padding: 1rem;
+    height: 500px;
+    /* border: 1px solid red; */
+    font-size: 50px;
+    font-family: cursive;
+}
+
+.buttonlight{
+    background-color: black;
+    color: rgb(46, 164, 10);
+    background-image: url("https://previews.123rf.com/images/enterline/enterline1601/enterline160101002/50837070-the-word-explore-written-in-dirty-vintage-letterpress-type-on-a-aged-wooden-background-.jpg");
+    transition: all 5s ease;
+}
+
+.buttondark{
+    background-color: yellow;
+    color: rgb(251, 251, 251);
+    background-image: url("https://wallpaper.dog/large/17145340.jpg");
+    transition: all 5s ease;
+    
+}
+.footer{
+    height: 100px;
+    /* border: 1px sloid red; */
+    /* background-color:rgb(67, 108, 148); */
+    display: flex;
+    font-size: 15px;
+    font-family: cursive;
+}
+.footerLight{
+    background-color:black;
+    color: black;
+    transition: all 2s ease;
+}
+.footerDark{
+    background-color: rgb(102, 102, 183);
+    color:rgb(46, 164, 10);
+    transition: all 2s ease;
+}
+
+.mid{
+    flex: 1;
+    align-items: center;
+    justify-content: center;
+}
+
+
+ul{
+    list-style-type: none;
+    text-align: justify;
+    color: white;
+    margin: 5px;
+    line-height: 1.5;
+}
+
+h1{
+    margin-left: 25%;
+}
+h2{
+    margin-left: 55%;
+}

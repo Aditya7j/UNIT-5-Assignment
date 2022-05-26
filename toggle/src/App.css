@@ -1,0 +1,21 @@
+.App{
+  height: 70px;
+  width: 100%;
+  background-color: rgb(67, 108, 148);
+  border: 1px solid blue;
+  color: red;
+  font-size: 15px;
+  font-family: cursive;
+  color: #fff;
+}
+
+.toggle{
+  padding: 0.5rem;
+  font-size: 18px;
+  margin: 10px;
+  width: 100px;
+  margin-left: 47%;
+  background-color: black;
+  color: white;
+  font-family: cursive;
+}
