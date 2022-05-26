@@ -1,0 +1,28 @@
+{
+    "products":[
+        {
+            "name":"Phone",
+            "price":100,
+            "id":0,
+            "img":"https://www.bajajfinservmarkets.in/emistore/media/catalog/product/t/e/tecnospark7pro_green_base.jpeg"
+        },
+        {
+            "name":"Watch",
+            "price":200,
+            "id":1,
+            "img":"https://images.pexels.com/photos/280250/pexels-photo-280250.jpeg?cs=srgb&dl=pexels-pixabay-280250.jpg&fm=jpg"
+        },
+        {
+            "name" : "Shirt",
+            "price" : 500,
+            "id" : 2,
+            "img":"https://m.media-amazon.com/images/I/71ts9CewHqL._UL1500_.jpg"
+        },
+        {
+            "name" : "Pants",
+            "price" : 1199,
+            "id" : 3,
+            "img":"https://images.pexels.com/photos/1598507/pexels-photo-1598507.jpeg?cs=srgb&dl=pexels-mnz-1598507.jpg&fm=jpg"
+        }
+    ]
+}
