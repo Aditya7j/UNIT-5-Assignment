@@ -1,0 +1,46 @@
+/* .App {
+  text-align: center;
+} */
+.main{
+  height: 250px;
+  border: 1px  solid lightgray;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background-color: rgb(225, 243, 237);
+}
+
+.mainh{
+  color: green;
+  font-size: 25px;
+  font-weight: 600;
+  font-family: cursive;
+}
+
+.mainbtn1{
+  width: 70px;
+  padding: 5px;
+  border: 2px solid rgb(130, 166, 0);
+  background-color: black;
+  color: red;
+  font-weight: 500;
+  margin: 5px;
+}
+.mainbtn1:hover{
+  background-color: white;
+}
+
+.mainspan{
+  color: red;
+}
+.mainbtn2{
+  width: 70px;
+  padding: 5px;
+  border: 2px solid rgb(130, 166, 0);
+  background-color: black;
+  color: red;
+  font-weight: 500;
+}
+.mainbtn2:hover{
+  background-color: white;
+}
