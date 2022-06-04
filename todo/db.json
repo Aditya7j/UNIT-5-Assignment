@@ -1,0 +1,49 @@
+{
+  "todos": [
+    {
+      "id": 1,
+      "title": "react",
+      "status": false
+    },
+    {
+      "title": "Learn redux",
+      "status": false,
+      "id": 2
+    },
+    {
+      "title": "React redux",
+      "status": false,
+      "id": 3
+    },
+    {
+      "title": "Maths",
+      "status": false,
+      "id": 4
+    },
+    {
+      "title": "aa",
+      "status": false,
+      "id": 5
+    },
+    {
+      "title": "aa",
+      "status": false,
+      "id": 6
+    },
+    {
+      "title": "Learn Hindi",
+      "status": false,
+      "id": 7
+    },
+    {
+      "title": "Learn Promises",
+      "status": false,
+      "id": 8
+    },
+    {
+      "title": "Learn Js",
+      "status": false,
+      "id": 9
+    }
+  ]
+}
