@@ -1,0 +1,207 @@
+{
+  "products":[
+          {
+              "id":1,
+              "img":"https://assets.myntassets.com/dpr_1.5,q_60,w_400,c_limit,fl_progressive/assets/images/productimage/2020/2/14/11adb5a6-9666-4bd2-8ed8-03fd20291f9d1581635929903-1.jpg",
+              "title":"English Navy",
+              "desc":"Men Black Slim Fit Formal Shirt",
+              "price":949,
+              "price1":1999,
+              "star":"* * * *",
+              "rating": "4 star",
+              "size":["S","M","L"],
+              "offer":"10% off"
+              
+
+          },
+
+          {
+              "id":2,
+              "img":"https://5.imimg.com/data5/HD/EC/IB/ANDROID-54157926/product-jpeg-500x500.jpg",
+              "title":"Wrong Jackets",
+              "desc":"Men Black Slim Fit White Jackets",
+              "price":1149,
+              "price1":1999,
+              "star":"* * *",
+              "rating": "3 star",
+              "size":["S","M","L","XL"],
+              "offer": "40% off"
+
+          },
+          {
+              "id":3,
+              "img":"https://rukminim1.flixcart.com/image/432/518/khxqt8w0-0/shirt/n/j/o/42-mc-rb-f-dezano-original-imafxug3rftekphq.jpeg?q=70",
+              "title":"Raymond",
+              "desc":"Men Green Slim Fit Self-Design Pure Cotton Formal Shirt",
+              "price":959,
+              "price1":2399,
+              "star":"* * *",
+              "rating": "3 star",
+              "size":["M","L","XL","XXL","XXXL"],
+              "offer": "50% off"
+          }
+          ,
+          {
+              "id":4,
+              "img":"https://cdn.chillme.in/product/pot-head-hd-printed-t-shirt-black-product-1629291774-1.jpg",
+              "title":"Roadster",
+              "desc":"Women Black & Grey Printed Round Neck T-shirt",
+              "price":749,
+              "price1":999,
+              "star":"* *" ,
+              "rating": "2 star",
+              "size":["S","M","L","XL"],
+              "offer": "30% off"
+          }
+          ,
+          {
+              "id":5,
+              "img":"https://rukminim2.flixcart.com/image/714/857/ktlu9ow0/shirt/l/6/d/40-afacsh0039-arrow-original-imag6wvsnyfftzhg.jpeg?q=50",
+              "title":"Louis Philippe",
+              "desc":"Men Black Slim Fit Micro Ditsy Printed Pure Cotton Formal Shirt",
+              "price":2239,
+              "price1":2799,
+              "star":"* * * * *",
+              "rating": "5 star",
+              "size":["S","M","L"],
+              "offer": "20% off"
+          }
+          ,
+          {
+              "id":6,
+              "img":"https://images.unsplash.com/photo-1494447122076-9e353e4dfd0f?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8NHx8Z2lybCUyMHdpdGglMjBmYWlyeSUyMGxpZ2h0c3xlbnwwfHwwfHw%3D&w=1000&q=80",
+              "title":"Roadster",
+              "desc":"Women Red Solid Polo Collar Pure Cotton shirt",
+              "price":749,
+              "price1":999,
+              "star":"* * *",
+              "rating": "3 star",
+              "size":["S","M","L","XL"],
+              "offer": "10% off"
+          },
+          {
+              "id":7,
+              "img":"https://qph.cf2.quoracdn.net/main-qimg-59beccae8e3e3ab20afa62369da3d9fe-lq",
+              "title":"Chemistry",
+              "desc":"Women Blue Slouchy Fit High-Rise Stretchable Jeans",
+              "price":1249,
+              "price1":2299,
+              "star":"* * * *",
+              "rating": "4 star",
+              "size":["M","L","XL","XXL","XXXL"],
+              "offer": "30% off"
+          },
+          {
+              "id":8,
+              "img":"https://fashionjackson.com/wp-content/uploads/2020/05/Fashion-Jackson-Wearing-Levis-Dad-Trucker-Jacket-in-Dad-Michael-ATM-White-Tshirt-Levis-501-Ripped-Jeans-Veja-V10-Sneakers-Street-Style.jpg",
+              "title":"Roadster",
+              "desc":"Women Blue Skinny Fit High-Rise Clean Look Stretchable Cropped Jeans",
+              "price":1749,
+              "price1":2299,
+              "star":"* * * * *",
+              "rating": "5 star",
+              "size":["S","M","L"],
+              "offer": "40% off"
+          },
+
+          {
+              "id":9,
+              "img":"https://images.unsplash.com/photo-1539874754764-5a96559165b0?crop=entropy&cs=tinysrgb&fm=jpg&ixlib=rb-1.2.1&q=80&raw_url=true&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MTB8fHdhdGNofGVufDB8fDB8fA%3D%3D&w=1000",
+              "title":"WROGN",
+              "desc":"Men Black Analogue Watch WRG00049A",
+              "price":2999,
+              "price1":4999,
+              "star":"* * * * *",
+              "rating": "5 star",
+              "size":["S","M","L"],
+              "offer": "10% off"
+          },
+
+          {
+              "id":10,
+              "img":"https://freepngimg.com/thumb/cap/32257-5-cap-hd.png",
+              "title":"Nike",
+              "desc":"Unisex White Solid DRY AROBILL TLWD Baseball Cap",
+              "price":1249,
+              "price1":1649,
+              "star":"* * *",
+              "rating": "3 star",
+              "size":["S","M","L","XL"],
+              "offer": "20% off"
+          },
+          {
+              "id":11,
+              "img":"https://www.pngmart.com/files/6/Baseball-Cap-PNG-Transparent-Image.png",
+              "title":"Jack & Jones ",
+              "desc":"Men Navy Blue Printed Baseball Cap",
+              "price":899,
+              "price1":1149,
+              "star":"* * * *",
+              "rating": "4 star",
+              "size":["M","L","XL","XXL","XXXL"],
+              "offer": "30% off"
+          }
+          ,
+          {
+              "id":12,
+              "img":"https://images.pexels.com/photos/2113994/pexels-photo-2113994.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500",
+              "title":"Daniel Klein",
+              "desc":"Premium Men Coffee Brown Analogue Watch DK11599-4",
+              "price":2295,
+              "price1":5100,
+              "star":"* * *",
+              "rating": "3 star",
+              "size":["S","M","L"],
+              "offer": "40% off"
+          },
+          {
+              "id":13,
+              "img":"https://i.pinimg.com/originals/56/d3/6b/56d36bc61c967564e4b0fabe7c73253b.jpg",
+              "title":"High Star",
+              "desc":"Men Black Solid Denim Jacket",
+              "price":1126,
+              "price1":2299,
+              "star":"* * * *",
+              "rating": "4 star",
+              "size":["S","M","L","XL"],
+              "offer": "50% off"
+          }
+          ,
+          {
+              "id":14,
+              "img":"https://images.pexels.com/photos/190819/pexels-photo-190819.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500",
+              "title":"Roadster",
+              "desc":"The Lifestyle Co Men Black Analogue and Digital Watch MFB-PN-SM-1708",
+              "price":1839,
+              "price1":2799,
+              "star":"* *",
+              "rating": "2 star",
+              "size":["M","L","XL","XXL","XXXL"],
+              "offer": "40% off"
+          },
+          {
+              "id":15,
+              "img":"https://c0.wallpaperflare.com/preview/226/245/176/man-sitting-on-rock-with-black-leather-jacket-during-daytime.jpg",
+              "title":"Domyos By Decathlon",
+              "desc":"Domyos by Decathlon Men Khaki Straight-Cut Fitness Jacket",
+              "price":1104,
+              "price1":1299,
+              "star":"* * * * *",
+              "rating": "5 star",
+              "size":["S","M","XL"],
+              "offer": "30% off"
+          },
+          {
+              "id":16,
+              "img":"https://assets.myntassets.com/dpr_1.5,q_60,w_400,c_limit,fl_progressive/assets/images/11067734/2019/12/10/34b589c2-80b9-4ad9-81ea-84333fbc46761575972548055-DILLINGER-Men-Tshirts-4071575972546110-1.jpg",
+              "title":"Roadster",
+              "desc":"Men Navy Blue Solid Henley Neck Pure Cotton T-shirt",
+              "price":799,
+              "price1":999,
+              "star":"* * * *",
+              "rating": "4 star",
+              "size":["S","M","L"],
+              "offer":"10% off"
+          }
+  ]
+}

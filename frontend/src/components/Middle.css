@@ -1,0 +1,134 @@
+.navmid{
+    height: 600px;
+    border: 1px solid black;
+    background-image: url("https://wallpaperaccess.com/full/2527537.jpg");
+    background-repeat: no-repeat;
+    background-size: 100%;
+    
+}
+
+.navmid h1{
+    text-align: center;
+    font-size: 3rem;
+    font-weight: 600;
+    color: #fff;
+    font-family: cursive;
+    line-height: 1;
+}
+
+.navmid p{
+    text-align: center;
+    font-size: 1.3rem;
+    color: #fff;
+    font-weight: 500;
+    font-family: cursive;
+    line-height: 1;
+
+}
+.navmid button{
+    width: 120px;
+    padding: 10px;
+    border:none;
+    border-radius: 20px;
+    font-size: 20px;
+    font-weight: 500;
+    margin-left: 46%;
+    color: #fff;
+    background: linear-gradient(red,black);
+}
+
+.midcont{
+    height: 300px;
+    /* border: 1px solid blue; */
+    display: flex;
+    gap: 1rem;
+    padding: 20px;
+}
+.midcont div{
+    /* border: 1px solid red; */
+    box-shadow: rgb(38, 57, 77) 0px 20px 30px -10px;
+    
+}
+.div1{
+    flex: 1;
+    background-image: url("https://www.wallpaperflare.com/static/376/261/73/h-and-m-hennes-and-mauritz-public-company-swedish-company-wallpaper.jpg");
+    background-repeat: no-repeat;
+    background-size: 100%;
+    align-items: center;
+    justify-content: center;
+}
+.div1 h2{
+    text-align: center;
+    font-size: 2rem;
+    font-weight: 600;
+    color: orangered;
+    font-family: cursive;
+    line-height: 1;
+    margin-top: 15%;
+}
+
+.div1 button{
+    width: 120px;
+    padding: 10px;
+    border:none;
+    border-radius: 20px;
+    font-size: 20px;
+    font-weight: 500;
+    margin-left: 35%;
+    color: #fff;
+    background: linear-gradient(red,black);
+}
+
+.div2{
+    flex: 1;
+    background-image: url("https://w0.peakpx.com/wallpaper/143/88/HD-wallpaper-man-in-suit-suit-male-model-interior-black-tie-man-chair-business.jpg");
+    background-repeat: no-repeat;
+    background-size: 100%;
+}
+
+.div2 h2{
+    text-align: center;
+    font-size: 2rem;
+    font-weight: 600;
+    color: orangered;
+    font-family: cursive;
+    line-height: 1;
+    margin-top: 15%;
+}
+.div2 button{
+    width: 120px;
+    padding: 10px;
+    border:none;
+    border-radius: 20px;
+    font-size: 20px;
+    font-weight: 500;
+    margin-left: 35%;
+    color: #fff;
+    background: linear-gradient(red,black);
+}
+.div3{
+    flex: 1;
+    background-image: url("https://sc04.alicdn.com/kf/H3c012ede61d144c7aa0a9b543905668af.jpg");
+    background-repeat: no-repeat;
+    background-size: 100%;
+}
+.div3 h2{
+    text-align: center;
+    font-size: 2rem;
+    font-weight: 600;
+    color: orangered;
+    font-family: cursive;
+    line-height: 1;
+    margin-top: 15%;
+}
+.div3 button{
+    width: 120px;
+    padding: 10px;
+    border:none;
+    border-radius: 20px;
+    font-size: 20px;
+    font-weight: 500;
+    margin-left: 35%;
+    color: #fff;
+    background: linear-gradient(red,black);
+}

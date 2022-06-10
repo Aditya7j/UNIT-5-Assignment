@@ -1,0 +1,145 @@
+.productdiv{
+    height: 900px;
+    /* border: 1px solid red; */
+    display: grid;
+    grid-template-columns: repeat(4,1fr);
+
+    grid-gap: 1rem;
+    
+}
+.productright{
+   height: 400px;
+   padding: 5%;
+   box-shadow: rgba(0, 0, 0, 0.16) 0px 3px 6px, rgba(0, 0, 0, 0.23) 0px 3px 6px;
+   background: linear-gradient(black,white);
+
+}
+.prodimg{
+    width: 95%;
+    border: 0px solid lightgray;
+    height: 70%;
+}
+.ts{
+    margin: 5px;
+    font-size: 20px;
+    color: crimson;
+}
+.tss{
+    font-size: 17px;
+    text-decoration: line-through;
+    color: black;
+    background: linear-gradient(green,yellow);;
+}
+.tsss{
+    margin: 5px;
+    color: orangered;
+    font-weight: 600;
+}
+.tp{
+    font-weight: 600;
+}
+.btn{
+    width: 120px;
+    padding: 8px;
+    /* margin-left: 170%; */
+    margin: 5px;
+    margin-left: 43%;
+    background-color: #3A3845;
+    color: #fff;
+    font-size: 20px;
+    font-weight: 600;
+    border: none;
+}
+
+.btn1{
+    width: 120px;
+    padding: 8px;
+    /* margin-left: 100%; */
+    background-color: #3A3845;
+    color: #fff;
+    font-size: 20px;
+    font-weight: 600;
+    border: none;
+}
+.tpp{
+    font-size: 35px;
+    font-weight: 900;
+    color: gold;
+    line-height:0;
+}
+.filter{
+    height: 60px;
+    /* border: 1px solid red; */
+    margin: 5px;
+    display: flex;
+    gap: 5px;
+    padding: 5px;
+    /* background: linear-gradient(black,white); */
+}
+.filter div{
+    /* border: 1px solid blue; */
+    height: 50px;
+}
+
+.filter1{
+    flex: 1;
+    align-items: center;
+    justify-content: center;
+    
+}
+.filter1 select{
+    width: 250px;
+    padding: 8px;
+    margin: 2px;
+    margin-left: 20%;
+    background: linear-gradient(red,yellow);
+    font-size: 20px;
+    color: black;
+    font-weight: 600;
+    font-family: cursive;
+    
+}
+
+.filter1 button{
+    width: 250px;
+    padding: 8px;
+    margin: 2px;
+    margin-left: 20%;
+    background: linear-gradient(red,yellow);
+    font-size: 20px;
+    color: black;
+    font-weight: 600;
+    font-family: cursive;
+}
+
+
+.filter2{
+    flex: 1;
+}
+.filter2 select{
+    width: 250px;
+    padding: 8px;
+    margin: 2px;
+    margin-left: 20%;
+    background: linear-gradient(red,yellow);
+    font-size: 20px;
+    color: black;
+    font-weight: 600;
+    font-family: cursive;
+}
+
+.filter3{
+    flex: 1;
+}
+
+.filter3 select{
+    width: 250px;
+    padding: 8px;
+    margin: 2px;
+    margin-left: 20%;
+    background: linear-gradient(red,yellow);
+    font-size: 20px;
+    color: black;
+    font-weight: 600;
+    font-family: cursive;
+}
